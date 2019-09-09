@@ -6,10 +6,10 @@ import (
 
 // Configuration ..
 type Configuration struct {
-	dbUsername string
-	dbPassword string
-	dbHost     string
-	dbName     string
+	DbUsername string
+	DbPassword string
+	DbHost     string
+	DbName     string
 }
 
 // GetConfig ..
